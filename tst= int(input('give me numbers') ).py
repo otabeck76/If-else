@@ -23,8 +23,14 @@
 #     print(True)
 # else:
 #     print(False)
-tst=['a','b','c','d','e']
-if 6> len(tst)<0:
-    print(True)
-else:
-    print(False)
+# tst=['a','b','c','d','e']
+# if 6> len(tst)<0:
+#     print(True)
+# else:
+#     print(False)
+# print('HW')
+# #2.
+# print('i did 2 Hw')
+
+# iudgwcuywcuy
+#kjdoihdnsicjbjdbvjbvjdbvjdbvjdvj 
